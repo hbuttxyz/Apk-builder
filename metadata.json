@@ -1,0 +1,6 @@
+{
+  "name": "FC Universal APK Builder Pro",
+  "description": "Android APK compilation and conversion platform supporting Native Android Kotlin/Java, Google AI Studio/React/Vite projects, and standalone HTML web apps with cloud build infrastructure and signing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
